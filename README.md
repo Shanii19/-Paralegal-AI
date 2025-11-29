@@ -11,8 +11,8 @@ A powerful AI-powered legal assistant built with Streamlit and Groq API, designe
 - **🧠 General Legal Advice**: Comprehensive legal guidance
 
 ## 🚀 Live Demo
-
-[Add your deployed URL here]
+https://paralegal-ai.streamlit.app/
+<img width="1364" height="610" alt="image" src="https://github.com/user-attachments/assets/8e922a8f-c501-4ed4-ba99-b8eee2f1614f" />
 
 ## 🛠️ Installation
 
